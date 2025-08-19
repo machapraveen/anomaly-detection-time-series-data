@@ -140,7 +140,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-**Praveen Kumar Macha**
+**Macha Praveen**
 - 🐙 GitHub: [@machapraveen](https://github.com/machapraveen)
 - 📧 Email: machapraveen@example.com
 - 🔗 Project Link: [https://github.com/machapraveen/anomaly-detection-time-series-data](https://github.com/machapraveen/anomaly-detection-time-series-data)
@@ -153,6 +153,6 @@ For support, email machapraveen@example.com or open an issue on GitHub.
 
 **⭐ If you found this project helpful, please give it a star! ⭐**
 
-Made with ❤️ by [Praveen Kumar Macha](https://github.com/machapraveen)
+Made with ❤️ by [Macha Praveen](https://github.com/machapraveen)
 
 </div>
